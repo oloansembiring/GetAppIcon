@@ -19,7 +19,7 @@ public class IconAdapter extends BaseAdapter{
 	PackageManager mPackageManager;
 
 	//OloanYahoo added this line 20140620
-
+	// Grandong asolole
 
 	public IconAdapter(Context mContext, List<ApplicationInfo> mList,
 			PackageManager mPackageManager) {	
