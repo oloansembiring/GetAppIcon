@@ -17,7 +17,7 @@ public class IconAdapter extends BaseAdapter{
 	Context mContext;
 	List<ApplicationInfo> mList;
 	PackageManager mPackageManager;
-	
+	//OloanYahoo added this
 
 	public IconAdapter(Context mContext, List<ApplicationInfo> mList,
 			PackageManager mPackageManager) {	
